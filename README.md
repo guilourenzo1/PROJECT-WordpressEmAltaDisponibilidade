@@ -6,7 +6,7 @@ Este projeto hospeda um site **Wordpress** utilizando ferramentas **AWS** como: 
 
 ## Sumário
 
-1.
+1. 
 
 ---
 ## Criação da VPC
@@ -254,7 +254,7 @@ echo "========================================================"
 • Selecione a VPC que foi criada  
 • Código de Sucesso -> 200-399  
 
-<sub>  _O que não foi citado deixe como padrão_  </sub>
+<sub> _O que não foi citado deixe como padrão_ </sub>
 
 ---
 
@@ -283,6 +283,17 @@ echo "========================================================"
 <sub> _O que não foi citado deixe como padrão_ </sub>
 
 ---
+
+<img width="1601" height="381" alt="image" src="https://github.com/user-attachments/assets/b0769ca9-c85a-47b1-8dd8-1b59d4125f3c" />
+
+• Esta é a mensagem de retorno desejada  
+<sub> Para checar vá em Load Balancer -> Mapa de recursos  
+
+---
+
+## Site Worpress funcionando
+• Site Worpress funcionando via AWS:
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/d6c8aaaa-8b43-4e98-9101-95e26a61a3f6" />
 
 
 
