@@ -15,6 +15,7 @@ Este projeto hospeda um site **Wordpress** utilizando ferramentas **AWS** como: 
 7. [Criação do Application Load Balancers](#-criação-do-application-load-balancers)
 8. [Criação do Auto Scaling Group](#-criação-do-auto-scaling-group)
 9. [Site Wordpress Funcionando](#-site-wordpress-funcionando)
+10. [Autor](#-autor)
 
 ---
 ## Criação da VPC
@@ -302,6 +303,13 @@ echo "========================================================"
 ## Site Worpress funcionando
 • Site Worpress funcionando via AWS:
 <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/d6c8aaaa-8b43-4e98-9101-95e26a61a3f6" />
+
+---
+
+## Autor
+### *Guilherme Assumpção Lourenzo*
+
+---
 
 
 
