@@ -272,7 +272,7 @@ echo "========================================================"
 • Criar Load Balancers -> Selecione Application Load Balancer  
 • Nome -> projeto-wordpressALB  
 • Selecione a VPC criada  
-• Zona de disponibilidade e sub-redes -> Marque as duas check boxes -> sub-redes públicas
+• Zona de disponibilidade e sub-redes -> Marque as duas check boxes -> sub-redes públicas  
 • Grupo de segurança -> SG ALB  
 • Grupo de destino -> projeto-wordpressTG  
 
