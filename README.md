@@ -75,13 +75,13 @@ Este projeto hospeda um site **Wordpress** utilizando ferramentas **AWS** como: 
 
 ## Criação do EFS
 
-• Entre na aba EFS na AWS
-• Nome -> projeto-wordpressEFS
-• Regional
-• Próximo ->
-• Zona de disponibilidade -> us-east-1a e us-east-1b
-• ID da sub-rede -> sub-nets públicas  
-• Grupos de segurança -> SG NFS  
+• Entre na aba EFS na AWS  
+• Nome -> projeto-wordpressEFS  
+• Regional  
+• Próximo ->  
+• Zona de disponibilidade -> us-east-1a e us-east-1b  
+• ID da sub-rede -> sub-nets públicas    
+• Grupos de segurança -> SG NFS    
 
 <sub> _O que não foi citado deixe como padrão_ </sub>
 
