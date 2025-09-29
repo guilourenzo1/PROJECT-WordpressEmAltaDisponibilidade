@@ -258,7 +258,7 @@ echo "========================================================"
 ---
 
 ## Criação do Target Group
-• Entre na aba da EC2 na AWS -> Grupos de Destino
+• Entre na aba da EC2 na AWS -> Grupos de Destino  
 • Nome -> projeto-wordpressTG  
 • Selecione a VPC que foi criada  
 • Código de Sucesso -> 200-399  
