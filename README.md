@@ -100,8 +100,8 @@ Este projeto hospeda um site **Wordpress** utilizando ferramentas **AWS** como: 
 
 ### Script do Launch Template
 
-• Clique na lista suspensa de Detalhes avançados
-• Cole esse script user-data ao fim da tela
+• Clique na lista suspensa de Detalhes avançados  
+• Cole esse script user-data ao fim da tela  
 <details>
   <summary> Clique aqui para ver o script user-data </summary>
 
